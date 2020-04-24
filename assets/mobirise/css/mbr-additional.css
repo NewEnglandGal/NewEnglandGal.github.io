@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+#header4-a H1 {
+  color: #000000;
+}
+#msg-box3-4 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#testimonials1-5 .card-footer > div {
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+}
